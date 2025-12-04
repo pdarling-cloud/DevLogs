@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="hero" style={{ backgroundColor: 'violet' }}>
-        Penelope Darling | Quality Assurance Tester
+        Penelope Darling | Business Analyst
       </div>
 
       <nav className="navbar">
